@@ -1,0 +1,12 @@
+{
+    "name": "sn-theme-material",
+    "version": "1.0.0",
+    "main": "src/main.css",
+    "sn": {
+      "main": "src/main.css"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/vantezzen/sn-theme-material.git"
+    }
+}
