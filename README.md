@@ -1,5 +1,5 @@
 # Material Theme for StandardNotes
-Material Theme for StandardNotes Dekstop or Web.
+Material Theme for StandardNotes Desktop or Web.
 ![Material Theme](screenshot.png)
 
 ## Installation

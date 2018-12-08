@@ -1,0 +1,20 @@
+{
+    "name": "Material",
+    "constants": {
+      "mainTintColor": "#00FF00",
+      "mainBackgroundColor": "#263238",
+      "mainTextColor": "#FFFFFF",
+      "navBarColor": "#009688",
+      "mainDimColor": "#FF0000",
+      "navBarTextColor": "#FFFFFF",
+      "plainCellBorderColor": "#37474F",
+      "selectedBackgroundColor": "#37474F",
+      "composeBorderColor": "#37474F"
+    },
+  
+    "rules": {
+  
+    },
+  
+    "statusBar": "dark-content"
+  }
