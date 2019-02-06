@@ -5,7 +5,7 @@ Material Theme for StandardNotes Desktop or Web.
 ## Installation
 1. Open StandardNotes
 2. In the bottom left corner, click "Extensions", then "Import Extension"
-3. Enter "https://raw.githubusercontent.com/vantezzen/sn-theme-material/master/extension.json" as the extension link
+3. Enter "`https://cdn.jsdelivr.net/gh/vantezzen/sn-theme-material/extension.json`" as the extension link
 4. Click enter and confirm the installation
 5. Activate the extension
 
