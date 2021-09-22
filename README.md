@@ -9,7 +9,7 @@ Material Theme for StandardNotes Desktop or Web.
 
 1. Open StandardNotes
 2. In the bottom left corner, click "Extensions", then "Import Extension"
-3. Enter "`https://github.com/xthursdayx/sn-theme-material/ext.json`" as the extension link
+3. Enter "`https://github.com/xthursdayx/sn-theme-material/raw/master/ext.json`" as the extension link
 4. Click enter and confirm the installation
 5. Activate the extension
 
