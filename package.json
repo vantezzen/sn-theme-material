@@ -1,6 +1,6 @@
 {
     "name": "sn-theme-material",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "main": "src/main.css",
     "sn": {
       "main": "src/main.css"
