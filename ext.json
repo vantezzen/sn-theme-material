@@ -10,7 +10,7 @@ metatype: json
   "version": "1.0.6",
   "description": "Material Theme for Standard Notes",
   "url": "https://github.com/xthursdayx/sn-theme-material/dist/main.css",
-  "download_url": "https://github.com/xthursdayx/sn-theme-material/archive/1.0.6.zip",
+  "download_url": "https://github.com/xthursdayx/sn-theme-material/archive/master.zip",
   "latest_url": "https://raw.githubusercontent.com/xthursdayx/sn-theme-material/master/ext.json",
   "marketing_url": "https://github.com/xthursdayx/sn-theme-material",
   "thumbnail_url": "https://raw.githubusercontent.com/xthursdayx/sn-theme-material/master/screenshot.png",
