@@ -1,17 +1,21 @@
 # Material Theme for StandardNotes
+
 [<img src="https://img.shields.io/static/v1.svg?label=StandardNotes&message=Theme&color=007AE1&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDE0IDE0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zOnNlcmlmPSJodHRwOi8vd3d3LnNlcmlmLmNvbS8iIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6MS40MTQyMTsiPgogICAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMC4wMzM0NjU0LDAsMCwwLjAzMzQ2NTQsLTEwLjEzODIsLTkuOTkzNjUpIj4KICAgICAgICA8cGF0aCBkPSJNMzI0LDcyMEw0MTQsNzE5QzQxNCw3MTkgNDE1LjQzMiw1MDIuNTQ3IDQxNiw0NDFDNDE2LjMxMSw0MDcuMzAyIDQ1Ni45NDEsMzc2Ljg0NSA1MTUuMjA0LDM3Ni4yNzNDNTYxLjYyOSwzNzUuODE3IDYxMS4wNTEsNDE0LjU4MiA2MTEsNDM0QzYxMC43MTEsNTQ0LjQ2NCA2MTQsNzIzIDYxNCw3MjNMNzEwLDcyMUM3MTAsNzIxIDcxMi44MzMsNTU1Ljg3MSA3MTEsNDE1QzcxMC4zMDcsMzYxLjcxOCA2MjAuODA5LDI5NS40MTQgNTE1LjYzOCwyOTIuNjY0QzQxNi43NjQsMjkwLjA4IDMyMy4wNjEsMzYyLjEwNSAzMjMsNDE2QzMyMi43MDYsNjc3LjA0MyAzMjQsNzIwIDMyNCw3MjBaIiBzdHlsZT0iZmlsbDpyZ2IoMCwxMjIsMjI1KTsiLz4KICAgIDwvZz4KPC9zdmc+Cg==">](https://github.com/orestarod/sn-themes)
 
 Material Theme for StandardNotes Desktop or Web.
 ![Material Theme](screenshot.png)
 
 ## Installation
+
 1. Open StandardNotes
 2. In the bottom left corner, click "Extensions", then "Import Extension"
-3. Enter "`https://cdn.jsdelivr.net/gh/vantezzen/sn-theme-material/extension.json`" as the extension link
+3. Enter "`https://github.com/xthursdayx/sn-theme-material/raw/master/ext.json`" as the extension link
 4. Click enter and confirm the installation
 5. Activate the extension
 
 ## Based on
+
 This theme is based on:
+
 - [StandardNotes Solarized Dark Theme](https://github.com/sn-extensions/solarized-dark-theme) as a template for the CSS
 - [Atom Material UI Theme](https://github.com/atom-material/atom-material-ui) for the colors

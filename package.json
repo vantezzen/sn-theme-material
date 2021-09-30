@@ -1,12 +1,20 @@
 {
-    "name": "sn-theme-material",
-    "version": "1.0.0",
-    "main": "src/main.css",
-    "sn": {
-      "main": "src/main.css"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/vantezzen/sn-theme-material.git"
-    }
+  "name": "sn-theme-material",
+  "description": "Material Theme for StandardNotes Desktop or Web.",
+  "version": "1.0.6",
+  "license": "MIT",
+  "main": "dist/main.css",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-newer": "^1.2.0",
+    "grunt-contrib-sass": "^1.0.0"
+  },
+  "sn": {
+    "main": "dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xthursdayx/sn-theme-material.git"
+  }
 }
